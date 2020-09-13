@@ -1,1 +1,1 @@
-# pcpart-scrapper
+# pcpart-scraper
