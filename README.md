@@ -1,7 +1,7 @@
 # pcpart-scraper
 Scraper for vietnam pc part & gear store
 
-## List of stores
+## List of shops
 1. https://gearvn.com/
 2. https://xgear.vn/
 3. https://www.memoryzone.com.vn/
